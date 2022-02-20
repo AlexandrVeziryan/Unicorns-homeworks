@@ -1,0 +1,46 @@
+int i
+i = 0
+cikl i < 20
+    tpel i * i + i / 2
+    i = i + 1
+int g = 3 + 3 * 3 / 1 - 6 + 9 / 3
+tpel g
+int b = 4
+tpel b
+int a = 3
+a
+tpel a + b + 5 - 6 + 5 + 5 + a + 5 - b + 5
+str st
+str st2 = "hey"
+tpel st2
+str st3 = st2
+tpel st3
+tpel 3
+tpel 333333333333333333333
+tpel 6  
+if 4 > 3
+    tpel 5  
+if a + 2 - 1 == 3 + 1
+    tpel "passed"
+if "heyy" < "hey" 
+    tpel 4
+    tpel a
+    tpel 6 + 5 + 9 + 6 - 8 - 8 
+tpel 234234 
+if 22 > 2
+    if 99 > 23
+        if a + 5 + 5 + 4 - 9  < 3 + 88 + 4 + 5 - 66 + 12
+            tpel "Nerdrvac if"             
+i = 1
+cikl i < 22    
+    tpel i
+    i = i + 2
+int e = 55
+if e > 22
+    if e > 44
+        tpel e
+tpel 3 * 3 * 3 * 3 / 3
+tpel ""
+if 2 * 2 * 2 * 2 * 2 > 3 * 3 / 3 * 3 * 3
+    tpel "Works excellent"
+tpel ""
