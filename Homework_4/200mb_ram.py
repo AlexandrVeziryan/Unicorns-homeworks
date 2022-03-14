@@ -9,7 +9,7 @@ while True:
     print(n)
     print(psutil.virtual_memory()[3] // 1048576, "Mb")  # physical memory usage
     print("Difference:1 ",psutil.virtual_memory()[3] // 1048576 - ram_before, "Mb")  # physical memory usage
-    line = f.readline(4_000_000)
+    line = f.readline(4_000_000) # Size of one file
     line = line.split()
     if line:
         for i in range(len(line)):
